@@ -13,7 +13,12 @@
     <img align="center" alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
     <img align="center" alt="MsOffice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">   
     <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
- 
+
+<br/>
+<br/>
+
+[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gvelecico&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div><br/>
 
  Always seeking knowledge 📚 Always looking forward to grow 🚀
